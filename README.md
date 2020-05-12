@@ -3,8 +3,8 @@ Project 5: Predicting the Economic Impact of Natural Disasters :ocean:
 ---
 ## Project Authors:
 
-Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky)
-Bryan Lange  - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange)
+Victor Voskovsy  - [LinkedIn](https://www.linkedin.com/in/victorvoskovsky) <br>
+Bryan Lange  - [LinkedIn](https://www.linkedin.com/in/bryanrobertlange) <br>
 Andrew Davis  
 
 ---
