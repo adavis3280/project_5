@@ -12,7 +12,7 @@ Andrew Davis
 
 ### Problem Statement
 
-According to NOAA, since 1980 the United States has experienced 265 weather and climate disasters where the overall costs reached or exceeded one billion dollars. The ability to predict potential wage loss from natural disasters will help communities focus their rebuilding efforts on the industries that need it most and help to mitigate economic impact. Using major hurricane data combined with data from the Bureau of Labor Statistics, our goal is to provide an estimation about the projected economic loss in a given locality based on the reported or estimated wage loss in that region after a natural disaster.  
+According to the NOAA, since 1980 the United States has experienced 265 weather and climate disasters where the overall costs reached or exceeded one billion dollars. The ability to predict potential wage loss from natural disasters will help communities focus their rebuilding efforts on the industries that need it most and help to mitigate economic impact. Using major hurricane data combined with data from the Bureau of Labor Statistics, our goal is to provide an estimation about the projected economic loss in a given locality based on the reported or estimated wage loss in that region after a natural disaster.  
 
 ---
 ## Data Information
